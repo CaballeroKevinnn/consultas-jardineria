@@ -1,0 +1,27 @@
+# Consultas SQL - Jardinería
+
+Este repositorio contiene un conjunto de **consultas SQL** para trabajar con la base de datos llamada **"Jardinería"**, la cual puede ejecutarse en MySQL utilizando XAMPP, WAMP o MAMP.
+
+## 📋 Consultas incluidas
+
+- Información básica de las oficinas
+- Empleados por oficina
+- Promedio de límite de crédito por región
+- Clientes y sus representantes de ventas
+- Productos disponibles y en stock
+- Productos con precio inferior al promedio
+- Pedidos pendientes
+- Total de productos por categoría
+- Ingresos por cliente
+- ... ¡y más!
+
+## 💻 Uso
+
+1. Importa el archivo `jardineria.sql` en tu base de datos MySQL.
+2. Ejecuta las consultas del archivo `consultas_jardineria.sql` según tus necesidades.
+
+## 📎 Requisitos
+
+- MySQL 5.7 o superior
+- XAMPP / WAMP / MAMP
+- Herramienta como phpMyAdmin o MySQL Workbench
